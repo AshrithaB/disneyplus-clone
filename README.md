@@ -53,7 +53,7 @@ This is a Disney+ clone app built using JavaScript, React, Firebase, Node.js. It
    ```
    Access the Disney+ clone app at `http://localhost:3000`.
 
-## Contributing
+## Contribute
 
 Contributions from the open-source community are welcomed. If you'd like to contribute to this project, please follow these steps:
 
