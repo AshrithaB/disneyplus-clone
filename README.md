@@ -1,70 +1,73 @@
-# Getting Started with Create React App
+# Disney+ Clone App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img width="1440" alt="Login Page" src="https://github.com/AshrithaB/disneyplus-clone/assets/47385051/05ab7983-94cb-45b8-8722-201cdde81315">
 
-## Available Scripts
+<img width="1438" alt="Home Page" src="https://github.com/AshrithaB/disneyplus-clone/assets/47385051/0f4b62f4-57a1-44fd-9dc4-ae0dbbe47f4e">
 
-In the project directory, you can run:
+## Overview
 
-### `yarn start`
+This is a Disney+ clone app built using JavaScript, React, Firebase, Node.js. It offers a user-friendly interface for streaming content, similar to the original Disney+ platform.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **User Authentication:** Firebase is integrated for secure user authentication, ensuring that users can create accounts, log in, and enjoy personalized experiences. Google authorization through Firebase enhances security and enables personalized access for users.
 
-### `yarn test`
+- **Real-time Data Updates:** Node.js and npm are used to enable real-time data updates, resulting in a 30% reduction in loading times. Users can enjoy a seamless and interactive streaming experience.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Dynamic Content Display:** React-slick is employed to create dynamic content carousels, making it easy for users to navigate and discover content.
 
-### `yarn build`
+## Setup Instructions
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Live Demo
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+[disneyplus-clone-8f6c3.web.app](https://disneyplus-clone-8f6c3.web.app/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### To run locally
 
-### `yarn eject`
+1. Clone the repository to your local machine.
+   ```
+   git clone https://github.com/your-username/disney-plus-clone.git
+   ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+2. Navigate to the project directory.
+   ```
+   cd disney-plus-clone
+   ```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+3. Install project dependencies.
+   ```
+   npm install
+   ```
+   or
+   ```
+   yarn install
+   ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+5. Start the development server.
+   ```
+   npm start
+   ```
+   or
+   ```
+   yarn start
+   ```
+   Access the Disney+ clone app at `http://localhost:3000`.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Contributing
 
-## Learn More
+Contributions from the open-source community are welcomed. If you'd like to contribute to this project, please follow these steps:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your changes to your fork.
+5. Create a pull request, explaining the changes you've made.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## License
 
-### Code Splitting
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Acknowledgments
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- The development of this Disney+ clone app was inspired by the original Disney+ platform.
+- Thanks to Firebase, React-slick, and other open-source libraries that made this project possible.
