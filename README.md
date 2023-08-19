@@ -43,7 +43,7 @@ This is a Disney+ clone app built using JavaScript, React, Firebase, Node.js. It
    yarn install
    ```
 
-5. Start the development server.
+4. Start the development server.
    ```
    npm start
    ```
@@ -71,3 +71,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - The development of this Disney+ clone app was inspired by the original Disney+ platform.
 - Thanks to Firebase, React-slick, and other open-source libraries that made this project possible.
+
+<br>
+<img width="1440" alt="Ahsoka detail" src="https://github.com/AshrithaB/disneyplus-clone/assets/47385051/262d4e17-7455-4205-bb1e-dbedb007f219">
