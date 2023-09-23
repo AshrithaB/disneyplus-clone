@@ -16,6 +16,8 @@ This is a Disney+ clone app built using JavaScript, React, Firebase, Node.js. It
 
 - **Dynamic Content Display:** React-slick is employed to create dynamic content carousels, making it easy for users to navigate and discover content.
 
+Please don't forget to leave a ⭐ if you like this portfolio!
+
 ## Setup Instructions
 
 ### Live Demo
